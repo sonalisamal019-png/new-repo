@@ -11,6 +11,9 @@ public class Addreess {
 	//cgggghhh
 	//ccvfgg
 //ffggggb	
+
+
+//addded new lines to remote repo
 	@SerializedName("streetName")
     @Expose
     private String street2Name;
