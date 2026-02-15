@@ -13,17 +13,23 @@ public class Hooks {
 	public static void beforeAllScearios() {
 		System.out.println("Running before all the scenario");
 	}
-	
+	@BeforeAll
+	public static void beforeAllScearios() {
+		System.out.println("Running before all the scenario");
+	}
 	@Before
-	public void beforeEachScenarios() {
-		System.out.println("Running before each scenario");
+	public void beforeEachyytttScenarios() {
+		System.out.println("Running3 before each scenario");
 	}
 	
 	@BeforeStep
-	public void beforeEachScenarioStep() {
+	public void beforeEach8777ScenarioStep() {
 		System.out.println("Running before each step of the scenarios");
 	}
-	
+	@BeforeStep
+	public void beforeEach8777ScenarioStep() {
+		System.out.println("Running Before Each step of the scenarios");
+	}
 	@AfterStep
 	public void afterEachScenaioSteps() {
 		System.out.println("Running after each step of the scenarios");

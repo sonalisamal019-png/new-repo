@@ -13,8 +13,16 @@ public class Addreess {
     @SerializedName("state")
     @Expose
     private String sta2te;
-    @SerializedName("country")
+    @SerializedName("country4444")
     @SerializedName("streetName")
+    @SerializedName("coffffff")
+     @SerializedName("gggg
+     offffff")
+     @SerializedName("ggggttttgit init
+     offffff")
+     @SerializedName("9kjhhhh")
+      @SerializedName("9kjyyyyyy")
+    @SerializedName("streetNamedrttddddddd")
     @Expose
     private String stree5tName;
     @SerializedName("state")
