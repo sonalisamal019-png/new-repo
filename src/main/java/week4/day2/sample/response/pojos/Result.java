@@ -63,5 +63,5 @@ public class Result {
     public void setCategory(String category) {
         this.category = category;
     }
-
+//tgfdtftff;
 }

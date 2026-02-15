@@ -7,10 +7,18 @@ import com.google.gson.annotations.SerializedName;
 
 @Generated("jsonschema2pojo")
 public class Addreess {
- @SerializedName("streetName")
+//fffghh
+	//cgggghhh
+	//ccvfgg
+//ffggggb	
+	@SerializedName("streetName")
+    @Expose
+    private String street2Name;
+	 @SerializedName("streetName")
     @Expose
     private String street3Name;
     @SerializedName("state")
+
     @Expose
     private String sta2te;
     @SerializedName("country4444")
@@ -33,6 +41,7 @@ public class Addreess {
     private String country;
 
     public String getStreetName() {
+    	
         return streetName;
     }
 
