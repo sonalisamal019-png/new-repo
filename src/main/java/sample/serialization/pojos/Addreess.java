@@ -1,4 +1,4 @@
-
+//dfghjk
 package sample.serialization.pojos;
 
 import javax.annotation.processing.Generated;
